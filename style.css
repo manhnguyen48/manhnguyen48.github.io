@@ -41,13 +41,13 @@
     margin-bottom: 2px;
 }
 
-.maplegend ul .legend-labels li span {
+.maplegend .legend-scale ul li span {
     display: block;
     float: left;
     height: 16px;
     width: 30px;
     margin-right: 5px;
-    margin-left: 0;
+    margin-left: 2px;
     border: 1px solid #999;
 }
 
